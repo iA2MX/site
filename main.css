@@ -77,6 +77,10 @@
   visibility: visible;
   opacity: 1;
 }
+.tooltip:click .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
 	/*---------------------------tooltip---------------------------------*/
 
 	ol, ul {
