@@ -76,10 +76,6 @@
   visibility: visible;
   opacity: 1;
 }
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-  opacity: 1;
-}
 	/*---------------------------tooltip---------------------------------*/
 
 	ol, ul {
