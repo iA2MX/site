@@ -72,8 +72,11 @@
   border-style: solid;
   border-color: black transparent transparent transparent;
 }
-
 .tooltip:click .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+.tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
 }
